@@ -1,0 +1,10 @@
+.info-box{
+    text-align: center;
+    
+}
+
+.info-box-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
